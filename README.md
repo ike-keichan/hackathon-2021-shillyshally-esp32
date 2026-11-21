@@ -1,6 +1,6 @@
 # hackathon-2021-shillyshally-esp32
 
-第2回 bitA Hackathon で、チーム「Shilly Shally」が作った作品の、ハードウェアのプログラム。
+「第2回 bitA Hackathon」で作った作品の、ハードウェアのプログラム。
 
 > 当時の記録として残しているリポジトリです。プログラムは当時のままで、リファクタリングや修正は行っていません。
 
